@@ -27,7 +27,7 @@ class datamodule{
 	
 	//datamodule() constructor is used to initialize values of cities...
 	
-	datamodule():city{"Chennai","Delhi","Kolkata","Bombay","Kerala","Pune","Hyderabad","Goa","Bangalore","Jaipur","Patna","Amritsar","Puducherry","Bhopal","Srinagar"}{}
+	datamodule():city{"Chennai","Delhi","Kolkata","Bombay","Chandigarh","Pune","Hyderabad","Goa","Bangalore","Jaipur","Patna","Amritsar","Puducherry","Bhopal","Srinagar"}{}
 	
 	void costdeclaration(){
 		int N(15),i,j;
